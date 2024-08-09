@@ -376,6 +376,8 @@
 "Assets/02_Scripts/Item/AmmoPack.cs"
 "Assets/02_Scripts/Item/Coin.cs"
 "Assets/02_Scripts/Item/HealthPack.cs"
+"Assets/02_Scripts/Item/ItemSpawner.cs"
+"Assets/02_Scripts/Item/Rotator.cs"
 "Assets/02_Scripts/Managers/GameManager.cs"
 "Assets/02_Scripts/Managers/UIManager.cs"
 "Assets/02_Scripts/Player/PlayerHealth.cs"
